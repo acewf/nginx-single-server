@@ -1,6 +1,5 @@
 
 /node_modules
-/certs
 
 .env.local
 .env.development.local
